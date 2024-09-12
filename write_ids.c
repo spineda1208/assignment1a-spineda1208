@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 int main() {
-    char GITHUB_ID[] = "Fill_in_Your_Github_Id";
-    char STUDENT_ID[] = "Fill_in_Your_Student_Id";
+    char GITHUB_ID[] = "spineda1208";
+    char STUDENT_ID[] = "sbp5827";
 
-    return 0 ;
+    return 0;
 }
